@@ -27,7 +27,7 @@ coverage
 build/Release
 
 # Dependency directories
-node_modules
+# node_modules
 jspm_packages
 
 # Optional npm cache directory
@@ -38,3 +38,4 @@ jspm_packages
 .DS_Store
 
 #Excluding build directory
+# node_modules
